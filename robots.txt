@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lob0915.github.io/resources-7dph1d/sitemap.xml
